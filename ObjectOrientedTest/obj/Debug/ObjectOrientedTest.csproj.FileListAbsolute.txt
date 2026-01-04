@@ -1,0 +1,5 @@
+C:\Users\khairul.bahri\Documents\HomeWork\ObjectOrientedTest\bin\Debug\ObjectOrientedTest.dll
+C:\Users\khairul.bahri\Documents\HomeWork\ObjectOrientedTest\bin\Debug\ObjectOrientedTest.pdb
+C:\Users\khairul.bahri\Documents\HomeWork\ObjectOrientedTest\obj\Debug\ObjectOrientedTest.csproj.CoreCompileInputs.cache
+C:\Users\khairul.bahri\Documents\HomeWork\ObjectOrientedTest\obj\Debug\ObjectOrientedTest.dll
+C:\Users\khairul.bahri\Documents\HomeWork\ObjectOrientedTest\obj\Debug\ObjectOrientedTest.pdb
